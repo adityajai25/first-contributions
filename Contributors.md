@@ -481,6 +481,7 @@
 - [Sarang S](https://github.com/saaarangs)
 - [Martin Parodi](https://github.com/mparodi3391)
 - [John Sebastian](https://github.com/CapedBaldie)
+- [Aditya JP](https://github.com/adityajai25)
 - [Ester Guri](https://github.com/esterguri)
 - [Caroline J. Dale](https://github.com/carolinejdale)
 - [Kalil Thompson](https://github.com/PROFLAYTON9)
